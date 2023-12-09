@@ -8,10 +8,8 @@ Describing how to create Repository in GitHub and write a Readme with Markdown l
 
   
 2. Click on the plus button on the top right hand corner of the page and select **New repository** from the drop down menu as shown in the image below
-   
-   ![image](https://github.com/Yemmy-Oye/creatingRepoInGitHub/assets/129787413/e57f036d-287e-4fe2-9bd5-8ef3bcb72b55)
 
-
+   ![image](https://github.com/Yemmy-Oye/creatingRepoInGitHub/assets/129787413/572acea0-9efa-45d3-ae9a-4389c7a9b422)
 
    
 3. Give the repo a name using Camel case. For example, myFirstRepo. The first letter of the first word is not capitalized while the first letter of the remaining words will be 
@@ -23,16 +21,12 @@ Describing how to create Repository in GitHub and write a Readme with Markdown l
    
 4. Under **Description**, describe the contents of your repo. However, this is optional
 
-   ![image](https://github.com/Yemmy-Oye/creatingRepoInGitHub/assets/129787413/c71da069-a9e4-4ca9-a59b-c7792da5f5c5)
-
-   
+   ![image](https://github.com/Yemmy-Oye/creatingRepoInGitHub/assets/129787413/0c7b3b14-53d1-4288-9a5a-04a6a6f610c8)
 
 5. Choose the Visibility status of your repo. This could be either Public or Private as indicated in the above picture
 6. Click on **Add a README file**. A README file will contain what the project you want to house on the repo you are creating is all about
-
-   ![image](https://github.com/Yemmy-Oye/creatingRepoInGitHub/assets/129787413/f210ae74-7933-4e38-8bdf-12a81a485322)
- 
    
+   ![image](https://github.com/Yemmy-Oye/creatingRepoInGitHub/assets/129787413/82d85799-1148-4990-88c9-759072183871)
 
 7. Click on the green button showing **Create Repository** as shown in the image above. Then, we will have the page below showing the repo created
 
@@ -45,21 +39,17 @@ Markdown language is a lightweight markup language that can be used to add forma
 
    ![image](https://github.com/Yemmy-Oye/creatingRepoInGitHub/assets/129787413/a4772606-6cd3-443c-a298-8f5b8690792f)
 
-   
-
 2. To understand the basic syntax of  Markdown language click [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 3. To move to the next line while writing with Markdown language, click on the spacebar on your keyboard twice, then click the Return button.
 4. To write the first sub-heading, start with double hash tag
 
    ![image](https://github.com/Yemmy-Oye/creatingRepoInGitHub/assets/129787413/a4bbe0ce-e34d-4585-a81b-4530e7fee6ee)
 
-
-
 5. For creating an ordered list, precede each line with a number as seen in the image above
    
 6. To add a website link to your README, wrap the link text in brackets and wrap the URL in parentheses
 
-   ![image](https://github.com/Yemmy-Oye/creatingRepoInGitHub/assets/129787413/654fb435-4982-4b85-962d-9b8f6800361f)
+   ![image](https://github.com/Yemmy-Oye/creatingRepoInGitHub/assets/129787413/de0c1773-e656-439a-bac8-18da3242ab12)
 
 7. To make any word or statement bold, precede it with double asterisk and end it with double asterisk. See an example below
 
